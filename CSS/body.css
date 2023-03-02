@@ -1,0 +1,14 @@
+body {
+    height: 100vh;
+    background-image:url(../img/flash4.jpg);
+    background-repeat: no-repeat;
+    background-size:1601px 800px;
+    display: flex;
+    flex-direction: column;
+    padding: 80px 128px 50px 128px;
+    
+}
+
+
+
+
