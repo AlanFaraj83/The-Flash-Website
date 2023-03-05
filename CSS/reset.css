@@ -2,4 +2,16 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'Mulish', sans-serif;
+    
+}
+
+a {
+    color: #fff;
+    text-decoration: none; /*Tira o sublinhado */
+    
+}
+
+ul {
+    list-style: none; /*Tira os pontos das lista */
 }
