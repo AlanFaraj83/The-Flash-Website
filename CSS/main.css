@@ -17,6 +17,7 @@ main {
     font-size: 7rem;
     display: flex;
     flex-direction: column;
+    font-weight: 400;
     
 }
 
