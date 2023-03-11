@@ -30,7 +30,7 @@
 
 <h2 class="title">Home</h2>
 
-<p>Todo mundo já pensou em voltar no tempo para mudar alguma coisa que incomodou a vida, é por isso que Flash decide fazer o mesmo.</p>
+<p>Todo mundo já pensou em voltar no tempo para mudar alguma coisa que incomodou a vida, é por isso que Flash decide fazer o mesmo.E tentar resolver todos os problemas que lhe aparece.</p>
 
 ### <strong><i>Como clonar o projeto:</i></strong>
 
