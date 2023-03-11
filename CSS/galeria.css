@@ -22,7 +22,7 @@ header h1 {
     color: #000;
 }
 
-.personagens-container {
+.galeria-container {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
@@ -30,7 +30,7 @@ header h1 {
     padding: 0 2vw;
 }
 
-.personagem-items {
+.galeria-items {
     width: 340px;
     height: 340px;
     border: 10px solid #fff;
@@ -40,7 +40,7 @@ header h1 {
     
 }
 
-.personagem-items img {
+.galeria-items img {
     width: 100%;
     height: 100%;
     object-fit: cover;
@@ -48,7 +48,7 @@ header h1 {
     
 }
 
-.personagem-items:hover {
+.galeria-items:hover {
     transform: scale(1.3);
     
     
